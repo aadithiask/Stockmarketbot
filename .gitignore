@@ -1,0 +1,12 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.env
+*.log
+data/logs/
+/data/raw_market_data/ 
+.DS_Store
+Thumbs.db
+.vscode/
+.ipynb_checkpoints/
